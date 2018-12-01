@@ -1,2 +1,2 @@
-log.tag=TAG
+log.tag=[PLAYER]
 log.maxLength=100
