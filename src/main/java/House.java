@@ -1,5 +1,3 @@
-package pizzapasta;
-
 public class House {
 
     private String window;

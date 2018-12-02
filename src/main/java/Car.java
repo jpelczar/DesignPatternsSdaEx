@@ -1,5 +1,3 @@
-package pizzapasta;
-
 public class Car implements Cloneable {
 
     private String color;
